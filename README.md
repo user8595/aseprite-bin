@@ -1,6 +1,6 @@
-[Aseprite][] binary build for 64-bit Windows.
-
 [![aseprite](https://github.com/user8595/aseprite-bin/actions/workflows/aseprite.yml/badge.svg)](https://github.com/user8595/aseprite-bin/actions/workflows/aseprite.yml)
+
+[Aseprite][] binary build for 64-bit Windows.
 
 Step by step guide to build binaries for latest version:
 
