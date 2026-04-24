@@ -4,7 +4,7 @@
 
 [Aseprite][] binary build for 64-bit Windows.
 
-To purchase Aseprite license visit its [download page][https://www.aseprite.org/download/]
+To purchase Aseprite license visit its [download page](https://www.aseprite.org/download/)
 
 Step by step guide to build binaries for latest version:
 
