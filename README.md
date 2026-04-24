@@ -1,5 +1,4 @@
 [![aseprite](https://github.com/user8595/aseprite-bin/actions/workflows/aseprite.yml/badge.svg)](https://github.com/user8595/aseprite-bin/actions/workflows/aseprite.yml)
-
 <a href="https://github.com/mmozeiko/aseprite-bin"><img src="https://img.shields.io/badge/source-%232f2f3a?logo=github&logoColor=%238f8f99" alt="original repository"></a>
 
 [Aseprite][] binary build for 64-bit Windows.
